@@ -12,3 +12,13 @@ puede llegar a ser irresponsable tomando en cuenta, que el modelo usado, puede t
 paciente, lo cual es lo contrario que busca un diagnostico medico. Por esto mismo creo que para el diagnostico de pacientes, podría ser una ayuda, según el modelo,
 el cual este siendo usado, y su entrenamiento, ya que si se le da la información debida, podría ahorrar procesos a los medicos, la cual es una profesión que demanda
 demasiado timepo, asi que tener una IA dando diagnosticos, siempre este entrenada de la debida maneral, puede ayudar a ahorrar tiempo y optimizar procesos.
+
+¿Qué soluciones o mejoras sugerirían para abordar estos problemas éticos?
+Las soluciones y mejoras que podrían sugeriría a partir de estos problemas éticos porían ser mediante la regulación exhaustiva de estas herramientas,
+ya que si se depende de estas, muchas personas se volverían obsoletas y serían fácilmente reemplazables al crear esa dependencia hacia la
+Inteligencia Artificial en cualquier tipo de trabajo. Hablando de los casos médicos, esto crearía mucha dependencia de esta herramienta, y los
+médicos podrían no tener en cuenta la posibilidad de que se la IA equivoque o que haga un diagnóstico falso. La siguiente mejora o solución para
+el futuro serían agentes de IA especializados en detectar los patrones para que los diagnósticos se realicen de mejor manera y que cada vez el
+margen de error sea más pequeño, hasta el punto de que no se pueda equivocar en la detección de casos médicos. Así se podría mejorar la salud de
+miles de personas al día y de esta manera minimizaríamos los riesgos en el sector de la salud y también se podría tomar acción inmediata en todos
+los casos.
