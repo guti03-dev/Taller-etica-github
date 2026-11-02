@@ -29,3 +29,13 @@ los casos.
 4. ¿Qué impacto a largo plazo creen que este uso de IA podría tener en la sociedad o en el sector involucrado?
 
 A largo plazo el uso de la inteligencia artificial en la medicina, va a cambiar muchísimo cómo funcionan los hospitales y cómo nos atienden a todos. Por el lado bueno va a ayudar bastante a detectar enfermedades a tiempo y a revisar exámenes mucho más rápido, quitándole carga repetitiva a los médicos, para que se puedan enfocar en los casos difíciles y en atender bien a la gente. Pero, también tiene su lado complicado para la sociedad si no se controla desde ya, primero se puede perder ese trato humano si los doctores empiezan a confiar más en lo que dice una pantalla que en su propio criterio. Además es muy probable que se agrande la desigualdad, porque las clínicas privadas con buen presupuesto van a tener estas tecnologías mucho antes que los hospitales públicos, también está el riesgo de que la IA se entrene con datos incompletos y termine dando malos diagnósticos a ciertos grupos de personas. Y a eso se le suma el peligro de que se filtre información médica privada, y el problema legal de definir quién responde si el programa comete un error grave con un paciente
+
+5. ¿Qué papel creen que deben desempeñar los desarrolladores y responsables de políticas públicas en este contexto?
+
+Los desarrolladores tienen una gran responsabilidad, ya que son los que deciden como responde la IA.
+Deberian ser claros sobre las limitaciones de sus modelos y avisar cuando una respuesta puede ser inventada o estar 
+equivocada, ya que muchos estudiantes confian en lo que nos dice la IA sin revisarlo.Tambien podrian crear modos especificos
+pensados para estudio,donde la IA explique y de pistas en vez de entregar una respuesta completa, y cuidar los datos de los
+estudiantes que usan estos modelos.Los responsables de las politicas publicas y las universidades deberian poner reglas
+claras sobre que uso de la IA esta permitido en tareas y examenes,porque hoy cada profesor tiene un criterio distinto y eso
+genera confusion en cuestion de como se deberia usar en diferentes actividades y asignaturas.
